@@ -1,3 +1,8 @@
+/* UTILS */
+.muted {
+    opacity: .4;
+}
+
 /* COLORS */
 /* green #80c424 */
 
@@ -28,6 +33,9 @@
 /* STAT PANEL */
 .stat-panel {
     background: #80c424;
+}
+.stat-panel .recommended:after {
+    content: '%';
 }
 .stat-panel .fa {
     font-size: .8em;
@@ -61,6 +69,9 @@
     color: #323232;
 }
 
+
+
+/* 
 .violet {
     background: #3f51b5;
 }
@@ -84,13 +95,15 @@
 }
 .teal {
     background: #607d8c;
-}
+} */
 
 .project-item h5, .project-item div {
-    color: #fff;
+    color: #222;
 }
 .project-item {
+    background: #eeeeee;
     border-radius: 0;
+    border: 0;
 }
 .project-item h5 {
     font-size: 1em;
@@ -110,6 +123,7 @@
 }
 .service-sale p {
     font-size: 10px;
+    color: #fff;
     margin: 10px;
     padding-top: 5px;
 }
@@ -121,6 +135,29 @@
     font-size: 1.4em;
 }
 
+/* WORKFLOW PANEL */
+.workflow-panel {
+    background: #eeeeee;
+}
+.workflow-items .card {
+    border: none;
+    height: 100%;;
+}
+.floating-step {
+    background: #4daf51;
+    color: #fff;
+    position: absolute;
+    padding: 0 .2em;
+    font-size: 3em;
+    font-weight: 700;
+    right: 10px;
+    top: -30px;
+}
+.floating-step span {
+    position: relative;
+}
+
+
 /* TESTIMONIALS */
 .map-bg {
     background: url('img/map.png') no-repeat center center;
@@ -129,7 +166,7 @@
 /* FOOTER */
 
 .footer-panel {
-    background: #5b8a1c;
+    background: #323232;
 }
 .footer-panel .footer-links li {
     border-bottom: 1px solid rgba(255,255,255,.2);
@@ -137,7 +174,7 @@
 }
 
 .footest-panel {
-    background: #355012;
+    background: #252525;
 }
 .footest-panel p {
     color: #fff;
