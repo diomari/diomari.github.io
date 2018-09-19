@@ -1,6 +1,11 @@
 /* UTILS */
 .muted {
-    opacity: .4;
+    opacity: .25;
+}
+.transparent {
+    color: transparent;
+    opacity: 0;
+    filter: alpha(opacity=0); /* For IE8 and earlier */
 }
 
 /* COLORS */
@@ -10,7 +15,7 @@
     color: #fff;
 }
 .text-green, .text-green * {
-    color: #4daf51;
+    color: #80c325;
 }
 .text-yellow, .text-yellow * {
     color: #ff9700;
@@ -122,9 +127,11 @@
     width: 46px;
 }
 .service-sale p {
-    font-size: 10px;
+    font-size: .9em;
     color: #fff;
-    margin: 10px;
+    margin: 6px;
+    font-weight: 700;
+    position: absolute;
     padding-top: 5px;
 }
 
@@ -161,12 +168,20 @@
 /* TESTIMONIALS */
 .map-bg {
     background: url('img/map.png') no-repeat center center;
+    background-size: contain;                      /* <------ */
+    background-repeat: no-repeat;
+    background-position: center center; ;
+}
+.testimonials-panel h2 {
+    font-weight: 700;
 }
 
 /* FOOTER */
-
+.footer-panel h3, .footer-panel h2 {
+    font-weight: 700;
+}
 .footer-panel {
-    background: #323232;
+    background: #383838;
 }
 .footer-panel .footer-links li {
     border-bottom: 1px solid rgba(255,255,255,.2);
@@ -174,8 +189,16 @@
 }
 
 .footest-panel {
-    background: #252525;
+    background: #606060;
 }
 .footest-panel p {
     color: #fff;
+}
+
+.footer-panel .social-footer .social-icon {
+    background: #80c325;
+    padding: 0 5px;
+}
+.footer-panel .social-footer li i {
+    color: #252525;
 }
