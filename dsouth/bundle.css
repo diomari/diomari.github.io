@@ -34,7 +34,7 @@ h2 {
   font-size: 1.8em; }
 
 .illustration-panel {
-  background: url("/public/images/illustration-bg.png") no-repeat center center;
+  background: url("public/images/illustration-bg.png") no-repeat center center;
   background-size: cover; }
   .illustration-panel .img-logo {
     width: 380px; }
@@ -49,10 +49,10 @@ h2 {
   background: #131311; }
 
 .venue-panel {
-  background: url("/public/images/bg_tickets.png") no-repeat top left, #276958; }
+  background: url("public/images/bg_tickets.png") no-repeat top left, #276958; }
 
 .tickets-panel {
-  background: url("/public/images/bg_diamond_cropped.png") no-repeat 100% 180%, #242420; }
+  background: url("public/images/bg_diamond_cropped.png") no-repeat 100% 180%, #242420; }
   @media (max-width: 767px) {
     .tickets-panel .tickets > * {
       margin-bottom: 30px; } }
