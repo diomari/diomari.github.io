@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Diomari Madulara</title>
+  <style>
+    body {
+      background-color: #fafafa;
+      font-family: sans-serif;
+      font-size: 20px;
+    }
+    .main {
+      margin: 0 auto;
+    }
+    .main p {
+      padding: 0 10vw;
+      line-height: 1.8rem;
+    }
+    .main strong {
+      text-decoration: blink;
+    }
+    @media only screen and (min-width:768px) {
+      .main {
+        width: 80vw;
+      }
+      .main p {
+        padding: 0 10vw;
+      }
+    }
+    .blink {
+    -webkit-animation: 1s linear infinite condemned_blink_effect;
+    animation: 1s linear infinite condemned_blink_effect;
+    }
+    @-webkit-keyframes condemned_blink_effect {
+        0% {
+            visibility: hidden;
+        }
+        50% {
+            visibility: hidden;
+        }
+        100% {
+            visibility: visible;
+        }
+    }
+    @keyframes condemned_blink_effect {
+        0% {
+            visibility: hidden;
+        }
+        50% {
+            visibility: hidden;
+        }
+        100% {
+            visibility: visible;
+        }
+    }
+  </style>
+</head>
+<body>
+  <section class="main">
+    <marquee behavior="alternate" direction="down">
+      <h2>Hello there.</h2>
+    </marquee>
+    <p>I'm <strong class="blink">Diomari Madulara</strong>, a software engineer based in Davao, PH. This site is still underconstruction. Contact me on <i>moid@dostscholars.org</i> if you need anything. Thanks :)</p>
+  </section>
+</body>
+</html>
+
+<!-- WOW SUCH MINIMALISM! -->
