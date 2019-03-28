@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[diom.dev]]></title><description><![CDATA[Personal blog of Diomari Madulara]]></description><link>https://diom.dev</link><generator>RSS for Node</generator><lastBuildDate>Fri, 22 Mar 2019 13:58:23 GMT</lastBuildDate><item><title><![CDATA[Hello World]]></title><description><![CDATA[First of all, thank you for taking the time to read this post. Allow me to introduce myself a little bit. I’m  Diomari Madulara . A software…]]></description><link>https://diom.dev/hello-world/</link><guid isPermaLink="false">https://diom.dev/hello-world/</guid><pubDate>Fri, 22 Mar 2019 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;First of all, thank you for taking the time to read this post. Allow me to introduce myself a little bit.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[diom.dev]]></title><description><![CDATA[Personal blog of Diomari Madulara]]></description><link>https://diom.dev</link><generator>RSS for Node</generator><lastBuildDate>Thu, 28 Mar 2019 12:51:00 GMT</lastBuildDate><item><title><![CDATA[Hello World]]></title><description><![CDATA[First of all, thank you for taking the time to read this post. Allow me to introduce myself a little bit. I’m  Diomari Madulara . A software…]]></description><link>https://diom.dev/hello-world/</link><guid isPermaLink="false">https://diom.dev/hello-world/</guid><pubDate>Fri, 22 Mar 2019 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;First of all, thank you for taking the time to read this post. Allow me to introduce myself a little bit.&lt;/p&gt;
 &lt;p&gt;I’m &lt;em&gt;Diomari Madulara&lt;/em&gt;. A software engineer based in Davao, Philippines. My journey started several years ago when our high school teacher introduced C language to our class. We did not make any serious application back then but I was hooked by the joy of inputting commands to a computer. For me, it felt revolutionary. &lt;/p&gt;
 &lt;p&gt;After getting a degree in Computer Science I worked on an agency where we use Python/Django to build web applications for businesses and startups. Since then, the majority of my time and effort goes to designing and building applications for the web.&lt;/p&gt;
 &lt;p&gt;This blog was created to serve as an archive for the things I’ve learned in my career.  I usually write practical guides from building an application to sharing tools for both design and development work. I hope you can find value on the things being posted here. &lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/c94dbe79852af2a3e720cb55aa563c2a/c1d3a/onerent.jpg&quot;
+    href=&quot;/static/c94dbe79852af2a3e720cb55aa563c2a/3e766/onerent.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -17,20 +17,20 @@
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 66.64285714285714%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAQBAwX/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAABYnDvRwVI/8QAGhABAQACAwAAAAAAAAAAAAAAAQIDEQASE//aAAgBAQABBQL1jd5CFyLzLtua7TSj/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAGRAAAgMBAAAAAAAAAAAAAAAAAAERITFx/9oACAEBAAY/Akm4NNLd6dohOD//xAAZEAEBAQEBAQAAAAAAAAAAAAABEQBBIWH/2gAIAQEAAT8hAtDe6GXcpbDnmT36mj+Sr7rNA4O//9oADAMBAAIAAwAAABDsP//EABURAQEAAAAAAAAAAAAAAAAAAAAh/9oACAEDAQE/EEf/xAAWEQEBAQAAAAAAAAAAAAAAAAAAARH/2gAIAQIBAT8QrK//xAAcEAEBAAICAwAAAAAAAAAAAAABEQAhMVFBYdH/2gAIAQEAAT8Q7YVREeud42OgY7tvxxRcXRtLpoY45NiTzJjTlmi8PV4xFqUIA3n/2Q==&apos;); background-size: cover; display: block;&quot;
+      style=&quot;padding-bottom: 66.64285714285714%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDAAUDBAQEAwUEBAQFBQUGBwwIBwcHBw8LCwkMEQ8SEhEPERETFhwXExQaFRERGCEYGh0dHx8fExciJCIeJBweHx7/2wBDAQUFBQcGBw4ICA4eFBEUHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh7/wgARCAANABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAUDBgf/xAAWAQEBAQAAAAAAAAAAAAAAAAABAAL/2gAMAwEAAhADEAAAAXUmTNEswgMX/8QAGRAAAwEBAQAAAAAAAAAAAAAAAgMEAQUU/9oACAEBAAEFAsvkxllipDO4zLpE1lk7/RPSZqb/AP/EABURAQEAAAAAAAAAAAAAAAAAAAAh/9oACAEDAQE/AUf/xAAWEQEBAQAAAAAAAAAAAAAAAAAAARL/2gAIAQIBAT8BrNf/xAAhEAACAQMDBQAAAAAAAAAAAAABAgADEhMRMUEhIjJCUf/aAAgBAQAGPwJKTvjLa8/JY1Ygy7Myg7dvEZqlUl/O4RdFsvbGfbpMdN3RRsAZ/8QAHBABAQACAwEBAAAAAAAAAAAAAREAITFBUZGx/9oACAEBAAE/Ife0sxXnO+sSxUYtts/HGm4NUjWmhh6CME7kxIxG6/C8Yi0zXA3n/9oADAMBAAIAAwAAABCzL//EABYRAQEBAAAAAAAAAAAAAAAAAAEQIf/aAAgBAwEBPxABMj//xAAXEQEBAQEAAAAAAAAAAAAAAAABACFh/9oACAECAQE/EEmN0v/EABwQAQEAAwEAAwAAAAAAAAAAAAERACFBMVFxsf/aAAgBAQABPxCbND2SI+HWkTIyA4AYA/P5YoEUR0gECMtuSSSg9uRzR7XBa44hW1HZvO/eUlmRYRoGcz//2Q==&apos;); background-size: cover; display: block;&quot;
     &gt;
       &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Onerent One Team!&quot;
         title=&quot;&quot;
-        src=&quot;/static/c94dbe79852af2a3e720cb55aa563c2a/4b3ab/onerent.jpg&quot;
-        srcset=&quot;/static/c94dbe79852af2a3e720cb55aa563c2a/f8bb1/onerent.jpg 148w,
-/static/c94dbe79852af2a3e720cb55aa563c2a/900ac/onerent.jpg 295w,
-/static/c94dbe79852af2a3e720cb55aa563c2a/4b3ab/onerent.jpg 590w,
-/static/c94dbe79852af2a3e720cb55aa563c2a/78641/onerent.jpg 885w,
-/static/c94dbe79852af2a3e720cb55aa563c2a/38a35/onerent.jpg 1180w,
-/static/c94dbe79852af2a3e720cb55aa563c2a/c1d3a/onerent.jpg 1400w&quot;
+        src=&quot;/static/c94dbe79852af2a3e720cb55aa563c2a/9fe4b/onerent.jpg&quot;
+        srcset=&quot;/static/c94dbe79852af2a3e720cb55aa563c2a/04cf7/onerent.jpg 148w,
+/static/c94dbe79852af2a3e720cb55aa563c2a/ab3fa/onerent.jpg 295w,
+/static/c94dbe79852af2a3e720cb55aa563c2a/9fe4b/onerent.jpg 590w,
+/static/c94dbe79852af2a3e720cb55aa563c2a/1c90a/onerent.jpg 885w,
+/static/c94dbe79852af2a3e720cb55aa563c2a/93740/onerent.jpg 1180w,
+/static/c94dbe79852af2a3e720cb55aa563c2a/3e766/onerent.jpg 1400w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
