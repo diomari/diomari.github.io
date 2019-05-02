@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[diom.dev]]></title><description><![CDATA[Personal blog of Diomari Madulara]]></description><link>https://diom.dev</link><generator>RSS for Node</generator><lastBuildDate>Thu, 02 May 2019 12:19:34 GMT</lastBuildDate><item><title><![CDATA[Switching from Windows to Mac]]></title><description><![CDATA[Listed below are tips on using Mac if you’re coming from a Windows environment. If you’re planning on switching or you’re already using a…]]></description><link>https://diom.dev/switching-from-windows-to-mac/</link><guid isPermaLink="false">https://diom.dev/switching-from-windows-to-mac/</guid><pubDate>Thu, 02 May 2019 22:12:03 GMT</pubDate><content:encoded>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[diom.dev]]></title><description><![CDATA[Personal blog of Diomari Madulara]]></description><link>https://diom.dev</link><generator>RSS for Node</generator><lastBuildDate>Thu, 02 May 2019 12:42:29 GMT</lastBuildDate><item><title><![CDATA[Switching from Windows to Mac]]></title><description><![CDATA[Listed below are tips on using Mac if you’re coming from a Windows environment. If you’re planning on switching or you’re already using a…]]></description><link>https://diom.dev/switching-from-windows-to-mac/</link><guid isPermaLink="false">https://diom.dev/switching-from-windows-to-mac/</guid><pubDate>Thu, 02 May 2019 22:12:03 GMT</pubDate><content:encoded>
   &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/3644793c0eacd3b711b81ab9f2e1d58c/14c53/main.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
   
   &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;&gt;
@@ -42,6 +42,7 @@
     
 &lt;h4&gt;Spectacle&lt;/h4&gt;
 &lt;p&gt;This is a free tool for managing your active applications. You can set keyboard commands that would move the app to another screen, make the active window halfscreen or fullscreen etc.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.spectacleapp.com/&quot;&gt;Download Spectacle&lt;/a&gt;&lt;/p&gt;
 
   &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/a1dc4f67ad632a07dadea1cfac15d47a/472f8/alfred.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
   
@@ -55,6 +56,7 @@
     
 &lt;h4&gt;Alfred&lt;/h4&gt;
 &lt;p&gt;MacOS already have an application launcher called spotlight but I highly recommend Alfred simply because it’s faster and highly extensible. You can use this tool to quickly open your applications or access any documents you have.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.alfredapp.com/&quot;&gt;Download Alfred&lt;/a&gt;&lt;/p&gt;
 
   &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/cc297b031aed327b0753ae6dd7488cb0/472f8/itsycal.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
   
@@ -68,6 +70,7 @@
     
 &lt;h4&gt;ItsyCal&lt;/h4&gt;
 &lt;p&gt;This tiny app will add a calendar on your taskbar. You can use this along with the standard taskbar clock on your mac.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.mowglii.com/itsycal/&quot;&gt;Download itsyCal&lt;/a&gt;&lt;/p&gt;
 
   &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/c886712a632fcffb8f4408e3f32b36bd/472f8/coconut_battery.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
   
@@ -81,6 +84,7 @@
     
 &lt;h4&gt;Coconut Battery&lt;/h4&gt;
 &lt;p&gt;This tool helps monitor the health of your laptop battery. It provides helpful info like cycle count, temperature and many more.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://coconut-flavour.com/coconutbattery/&quot;&gt;Download Coconut Battery&lt;/a&gt;&lt;/p&gt;
 &lt;h3&gt;Tools for development&lt;/h3&gt;
 &lt;hr&gt;
 
@@ -96,6 +100,7 @@
     
 &lt;h3&gt;Homebrew&lt;/h3&gt;
 &lt;p&gt;By default you install applications on Mac via App Store. Installing brew allows your system to install development specific packages like &lt;code class=&quot;language-text&quot;&gt;yarn&lt;/code&gt; and other things using the terminal.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://brew.sh/&quot;&gt;Download Homebrew&lt;/a&gt;&lt;/p&gt;
 
   &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/715057d91508535acac8868f2bd6e346/472f8/git.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
   
@@ -109,6 +114,7 @@
     
 &lt;h3&gt;Git&lt;/h3&gt;
 &lt;p&gt;I guess this tool does not require introduction anymore. Installing git on your system is a priority if you’ll collaboratively work on projects.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://git-scm.com/download/mac&quot;&gt;Download Git&lt;/a&gt;&lt;/p&gt;
 
   &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/44e55661f6806d96de58270ee98d109e/472f8/iterm.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
   
@@ -122,6 +128,7 @@
     
 &lt;h3&gt;iterm2&lt;/h3&gt;
 &lt;p&gt;This is an alternative to the default terminal Mac has. Iterm allows you to customize your experience on using the terminal. With this tool you can split panels, add autocomplete, set hotkeys and the list goes on.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.iterm2.com/&quot;&gt;Download iterm&lt;/a&gt;&lt;/p&gt;
 
   &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/1bfe8fe539a251c397e39e8b318d1abc/472f8/ohmyzsh.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
   
@@ -135,6 +142,7 @@
     
 &lt;h3&gt;oh my zsh&lt;/h3&gt;
 &lt;p&gt;This is optional. By default Mac uses Bash as its shell or command-line interpreter. But aside from bash there are several shells you can use on your system. One of them is Z-shell. Combined with oh-my-zsh you can install plugins that will allow auto-completion, tab-completion and custom themes on your shell!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://ohmyz.sh/&quot;&gt;Download ohmyzsh&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;If you’re feeling more adventurous you can also check out Fish shell. This is my main shell right now but be aware but this shell does not follow Bash format.&lt;/em&gt;&lt;/p&gt;
 &lt;h3&gt;Language environments&lt;/h3&gt;
 &lt;p&gt;These languages/environments has bundles specific to MacOS you can install to your system.&lt;/p&gt;
@@ -150,8 +158,8 @@
   &lt;/a&gt;
     
 &lt;h4&gt;Python&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.python.org/downloads/mac-osx/&quot;&gt;https://www.python.org/downloads/mac-osx/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;MacOS comes preinstalled with Python 2.7. I suggest installing Pyenv to have python version management&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.python.org/downloads/mac-osx/&quot;&gt;Download Python&lt;/a&gt; &lt;/p&gt;
 
   &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/29dd1ab00fe66b21c18069d8f6c19d34/472f8/nodejs.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
   
@@ -165,6 +173,7 @@
     
 &lt;h4&gt;NodeJS&lt;/h4&gt;
 &lt;p&gt;&lt;a href=&quot;https://nodejs.org/en/&quot;&gt;https://nodejs.org/en/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://nodejs.org/en/download/&quot;&gt;Download Nodejs&lt;/a&gt; &lt;/p&gt;
 &lt;h3&gt;Tools for design&lt;/h3&gt;
 &lt;hr&gt;
 
@@ -179,10 +188,11 @@
   &lt;/a&gt;
     
 &lt;h4&gt;Adobe XD&lt;/h4&gt;
-&lt;p&gt;You can use this tool to produce deliverables from wireframes, mockups to prototypes. XD is available on both Windows and Mac but the Mac version usually has the latest updates.&lt;/p&gt;
+&lt;p&gt;You can use this tool to produce deliverables from wireframes, mockups to prototypes. XD is available on both Windows and Mac but the Mac version usually has the latest updates. &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.adobe.com/products/xd.html&quot;&gt;Download Adobe XD&lt;/a&gt;&lt;/p&gt;
 &lt;h1&gt;Summary&lt;/h1&gt;
 &lt;p&gt;The platform that you use to interact with the computer plays a very important role on your productivity level as a designer/developer. So it’s equally important that we should always take time to learn new things about our operating system.&lt;/p&gt;
-&lt;p&gt;For a more detailed guide here is a &lt;/p&gt;
+&lt;p&gt;For a more detailed MacOS guide for design and development you can check this link from &lt;a href=&quot;https://carbon.gitbook.io/mac-setup/&quot;&gt;Francis Alturas&lt;/a&gt; &lt;/p&gt;
 &lt;h2&gt;Bonus Tip&lt;/h2&gt;
 &lt;h5&gt;I’m still using Windows when should I switch to MacOS?&lt;/h5&gt;
 &lt;p&gt;This is a question only you can answer. It really depends on what tools do you want to use and its availability on the platform that you are using.&lt;/p&gt;
